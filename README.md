@@ -3,13 +3,13 @@ This is a demo of using [Devise](https://github.com/plataformatec/devise) and [A
 
 ## Running this demo
 
-This demo was built with Ruby 2.5.1, but should run with any Ruby version that is supported by Rails/Devise.
+This demo was built with Ruby 2.5.3(Rails 5.2.3), but should run with any Ruby version that is supported by Rails/Devise.
 
 To run this application download or clone it from GitHub, change into the directory and install the dependencies:
 
 ```bash
-git clone https://github.com/twilio/authy-devise-demo.git
-cd authy-devise-demo
+git clone https://github.com/SOUMONSoum/Two-Factors-Authentication-Rails.git
+cd Two-Factors-Authentication-Rails
 bundle install
 ```
 
